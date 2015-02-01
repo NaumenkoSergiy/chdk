@@ -43,3 +43,4 @@ gem 'pry'
 gem 'heroku'
 gem 'pg'
 gem 'rails_12factor', group: :production
+gem 'rails-backup-migrate'
