@@ -67,7 +67,6 @@ header{padding-top:45px;}
 .butt1 a{font-size:21px;line-height:20px;display:block;padding-top:18px;width:303px;height:49px;color:#fff;background:url("../i/butt1.png") no-repeat 0 0;text-align:center;text-shadow: -1px -1px 1px #860c01}
 .butt1 a:hover{background-position:0 -67px}
 .butt1 a:focus{background-position:0 -134px}
-/*slider*/
 .slider{float:right;width:815px;height:423px;border:2px solid #fff;position:relative;overflow:hidden;margin-right:-2px;}
 .slider .slidesPrevious, .slider .slidesNext{position:absolute;display:block;top:170px;width:45px;height:86px;background:url("../i/sliderButt.png") no-repeat 0 0;z-index:100;text-indent:-1000px}
 .slider .slidesPrevious{left:0;}
@@ -78,8 +77,6 @@ header{padding-top:45px;}
 .slider .slidesPagination li{padding:0 3px 0 4px;display:inline-block;}
 .slider .slidesPagination li a{background:url("../i/slPagin.png") no-repeat 0 0;overflow:hidden;display:inline-block;width:10px;height:11px;text-indent:-1000px}
 .slider .slidesPagination li.slidesCurrent a{background-position:0 -11px}
-/*/slider*/
-/*slider2*/
 .slider2{float:left;width:184px;height:220px;position:relative;overflow:hidden}
 .slider2 .slidesPrevious, .slider2 .slidesNext{position:absolute;display:block;bottom:0;width:12px;height:22px;background:url("../i/slider2Butt.png") no-repeat 0 0;z-index:100;text-indent:-1000px}
 .slider2 .slidesPrevious{left:0;}
@@ -92,7 +89,6 @@ header{padding-top:45px;}
 .content1 .slider2 li{background:none}
 .slider2 .slidesPagination li a{background:url("../i/slPagin.png") no-repeat 0 0;overflow:hidden;display:inline-block;width:10px;height:11px;text-indent:-1000px}
 .slider2 .slidesPagination li.slidesCurrent a{background-position:0 -11px}
-/*/slider2*/
 .menu{height:91px;background:url("../i/navShad.png") no-repeat 50% 100%;margin-top:23px;}
 .menu ul{float:left;width:859px;}
 .menu li{float:left;border-left:2px solid #fff;}
@@ -190,7 +186,6 @@ header{padding-top:45px;}
 .content1 .links li{padding-left:0;background:none}
 .links a{color:#000;}
 .content1 .links h3{height:55px;font-family:'pf_dindisplay_probold'}
-/*footer*/
 footer .c{padding-top:45px;font-size:13px;}
 .fl{float:left;width:320px}
 .fc{float:left;width:256px;padding:0 12px 0 21px;}
@@ -203,14 +198,9 @@ footer a{color:#fff;}
 .frB input{width:41px;height:50px;border:0;background:url("../i/frBb.png") no-repeat 0 0;position:relative;left:25px}
 .frB input:hover{background-position:0 -50px;}
 .frB input:focus{background-position:0 -100px;}
-/*end footer*/
 
-/*vert center*/
-.menu ul span,.dl1 dt span{display:-moz-inline-box;display:inline-block;vertical-align:middle;zoom:1;//display:inline;}
-.menu ul i,.dl1 dt i{display:-moz-inline-box;display:inline-block;height:100%;width:0px;vertical-align:middle;zoom:1;//display:inline;}
-/*end vert center*/
+.menu ul span,.dl1 dt span{display:-moz-inline-box;display:inline-block;vertical-align:middle;zoom:1;}
+.menu ul i,.dl1 dt i{display:-moz-inline-box;display:inline-block;height:100%;width:0px;vertical-align:middle;zoom:1;}
 
 .a1 a, footer a,.t_ul ul a:hover,.h_ml ul a:hover, .contacts a, .content a,.prod h5 a:hover,.links a{text-decoration:underline}
 .a1 a:hover, footer a:hover,.contacts a:hover, .content a:hover,.links a:hover{text-decoration:none}
-
-
