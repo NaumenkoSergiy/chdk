@@ -40,3 +40,6 @@ gem 'spring',        group: :development
 
 gem 'comfortable_mexican_sofa'
 gem 'pry'
+gem 'heroku'
+gem 'pg'
+gem 'rails_12factor', group: :production
