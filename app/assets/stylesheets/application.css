@@ -17,3 +17,7 @@
 a:hover {
   background-color: #fff;
 }
+
+code {
+  font: 15px/17px 'pf_dindisplay_proregular';
+}
