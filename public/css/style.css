@@ -46,7 +46,7 @@ input.placeholder{color:#9a9a9a;}
 .menu ul a, .menu form label, .menu ul em, .f1 input[type="submit"],.f1 input[type="button"],.p_z a,.butt, .d3 aside a,.mLft input[type="submit"],.mLft input[type="button"]{color:#fff;font-size:13px;text-shadow: -1px -1px 1px #751c1c;text-transform:uppercase}
 p{padding:6px 0}
 .p_z a,.butt, .d3 aside a{display:block;background:url("../i/navButt.png") no-repeat 50% 0;height:32px;padding-top:16px;width:233px;text-decoration:none;text-align:center}
-.d3 aside a{background-image:url("../i/butt3.png")}
+.d3 aside a{background-image:url("/i/butt3.png")}
 .p_z a:hover,.butt:hover, .d3 aside a:hover{background-position:50% -48px}
 
 header{padding-top:45px;}
